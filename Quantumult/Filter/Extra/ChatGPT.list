@@ -1,0 +1,11 @@
+HOST-SUFFIX,openai.com,Proxy
+HOST-SUFFIX,auth0.com,Proxy
+HOST-SUFFIX,sentry.io,Proxy
+HOST-SUFFIX,google.com,Proxy
+HOST-SUFFIX,googleapis.com,Proxy
+HOST-SUFFIX,hcaptcha.com,Proxy
+HOST-SUFFIX,recaptcha.net,Proxy
+HOST-SUFFIX,gstatic.com,Proxy
+HOST-SUFFIX,gvt2.com,Proxy
+HOST-SUFFIX,gvt1.com,Proxy
+HOST-SUFFIX,gvt3.com,Proxy
