@@ -19,3 +19,6 @@ DOMAIN-KEYWORD,apple.com.akadns.net,Apple
 DOMAIN-KEYWORD,apple.com.edgekey.net,Apple
 DOMAIN-KEYWORD,apple-support.akadns.net,Apple
 DOMAIN-KEYWORD,icloud.com.akadns.net,Apple
+DOMAIN-SUFFIX,apple-relay.apple.com,Apple
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,Apple
+DOMAIN-KEYWORD,apple-relay,Apple
